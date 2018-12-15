@@ -1,5 +1,5 @@
 # BMW 4-series Pro navigation YouTube-downloader
-This downloader can be used to download any YouTube-playlist to a format that fits on the BMW 4-series Pro navigation (2017) screen.
+This downloader can be used to download any YouTube-playlist to a format that fits on the BMW 4-series Pro navigation screen.
 
 ## Requirements
 - Python 3.7
