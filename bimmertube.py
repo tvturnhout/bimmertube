@@ -4,7 +4,7 @@ import shutil
 import sys
 
 def main():
-    if len(sys.argv > 1):
+    if len(sys.argv) > 1:
         url = sys.argv[1]
     else:
         raise Exception('YouTube-playlist URL required.')
